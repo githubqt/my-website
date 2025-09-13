@@ -1,14 +1,8 @@
-/* 占位图片样式 */
-.logo-placeholder {
+/* Logo图片样式 */
+.logo-img {
     height: 40px;
-    background-color: #1890ff;
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-weight: bold;
-    border-radius: 4px;
-    padding: 0 10px;
+    width: auto;
+    object-fit: contain;
 }
 
 .hero-image-placeholder {
